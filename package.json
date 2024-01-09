@@ -1,0 +1,25 @@
+{
+  "name": "overwatch",
+  "version": "1.0.0",
+  "description": "### 📎 [Demo](https://storied-starburst-6677e2.netlify.app/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heo-y-y/overwatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heo-y-y/overwatch/issues"
+  },
+  "homepage": "https://github.com/Heo-y-y/overwatch#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.69.7"
+  },
+  "dependencies": {}
+}
